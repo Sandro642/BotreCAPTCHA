@@ -12,4 +12,4 @@ console.log("Bot : reCAPTCHA | ON");
 client.user.setActivity("Verified Connexion Web");
 });
 
-client.login('OTc5ODcwNDM0MjgxNTM3NTc2.GYRC0x.0shJImrO8L4ONYlhkt0RJyzqi5bqXYLHfcM8EE')
+client.login('process.env.TOKEN');
